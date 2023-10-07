@@ -1,4 +1,12 @@
+利用playwright处理网站类操作
+
+pandora实现
+
+https://github.com/Alpaca4610/nonebot_plugin_chatpdf
+
+
 # nonebot-plugin-shindan
+
 
 使用 [ShindanMaker](https://shindanmaker.com) 网站的~~无聊~~趣味占卜
 
